@@ -1,0 +1,9 @@
+com/example/messaging/MessageChannel.class
+com/example/messaging/app/InitiatorProcess.class
+com/example/messaging/channel/InMemoryChannel$Pair.class
+com/example/messaging/Player.class
+com/example/messaging/app/ResponderProcess.class
+com/example/messaging/Message.class
+com/example/messaging/channel/TcpMessageChannel.class
+com/example/messaging/app/SingleProcessApp.class
+com/example/messaging/channel/InMemoryChannel.class
