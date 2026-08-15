@@ -13,7 +13,7 @@
 
     <name>player-messaging</name>
     <description>
-        Two Players exchanging messages. Same JVM (threads + in-memory queues)
+        new Players exchanging messages. Same JVM (threads + in-memory queues)
         and separate JVMs (sockets), behind one swappable transport interface.
         Pure Java, no third-party dependencies.
     </description>
