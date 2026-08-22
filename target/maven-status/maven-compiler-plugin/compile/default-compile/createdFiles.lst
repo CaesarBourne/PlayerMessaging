@@ -1,3 +1,5 @@
+com/example/user/UserEqualityDemo.class
+com/example/user/User.class
 com/example/messaging/MessageChannel.class
 com/example/messaging/app/InitiatorProcess.class
 com/example/messaging/channel/InMemoryChannel$Pair.class
