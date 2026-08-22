@@ -6,3 +6,5 @@
 /Users/caesaradek/Downloads/player-messaging/src/main/java/com/example/messaging/app/SingleProcessApp.java
 /Users/caesaradek/Downloads/player-messaging/src/main/java/com/example/messaging/channel/InMemoryChannel.java
 /Users/caesaradek/Downloads/player-messaging/src/main/java/com/example/messaging/channel/TcpMessageChannel.java
+/Users/caesaradek/Downloads/player-messaging/src/main/java/com/example/user/User.java
+/Users/caesaradek/Downloads/player-messaging/src/main/java/com/example/user/UserEqualityDemo.java
